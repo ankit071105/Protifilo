@@ -14,19 +14,21 @@ body {
   padding: 0;
   margin: 0;
   font-family: "Roboto", sans-serif;
-  background:linear-gradient(to bottom, #0b2880 0%, #5c2079 100%);;
+  background:linear-gradient(to bottom right,  #3219c0 0% , #c91eeb 100%);
 }
 
 header {
-  height: 100vh;
+  height: 80vh;
+
   padding: 36px 100px;
-  background-image: url(asset/images/ankit.png);
+  background-image: url(1png.png);
   background-position:right;
   background-size: contain;
   background-repeat: no-repeat;
   width: 100vw;
+  border-radius: 70% 0%;
 
-box-shadow: 10px 50px rgb(26, 35, 64);
+box-shadow: 80px 90px 80px rgb(188, 14, 241);
 
 }
 
