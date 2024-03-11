@@ -2,6 +2,7 @@
     background-color: #125d85;
     display: flex;
     justify-content: center;
+    width: 100%;
   }
 
   .topnav a {
@@ -9,12 +10,12 @@
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 47px;
+    font-size: 27px;
   }
   .topnav a:hover {
     background-color: #ddd;
     color: rgb(0, 0, 0);
-    font-size: 57px;
+    font-size: 37px;
   }
   .topnav a.active {
     background-color: #0e296b;
@@ -32,21 +33,24 @@ body{
 background: url(mac.png);
 /* background-position: center; */
 background-size: cover;
-     padding: 100px;
+width: 100%;
 }
 h5{
-    font-size: 27px;
+    font-size: 22px;
+
 }
 h3{
-    font-size: 33px; 
+    font-size: 23px; 
+
     
 }
 h2{
-    font-size: 40px;
+    font-size: 28px;
+
 
 }
 h1{
-    font-size: 7rem;
+    font-size: 4rem;
     background: #41578e;
     color: aliceblue;
     padding: 30px;
@@ -60,7 +64,7 @@ h1{
   }
   button{
     border-radius:50px;
-    width:300px;
+    width:180px;
     height: 120px;
     margin-left: 120px;
     background-color: darkblue;
@@ -68,7 +72,7 @@ h1{
   }
   .process{
     color: whitesmoke;
-    font-size: 37px;
+    font-size: 17px;
     padding: 20px;
     text-align: center;
   }
@@ -90,14 +94,15 @@ margin-bottom:100px ;
     color: rgb(168, 213, 252);
   }
   img{
-    width: 400px;
+    width: 200px;
     margin-right: 60px;
+
   }
   .ok{
     display: flex;
     justify-content: center;
-    padding: 50px;
-    background: #c4f6f1;
+    background: #7ff1e6;
+    width: 100%;
     /* box-shadow:70px 50px  rgb(48, 6, 62); */
   }
   .kk{
@@ -107,13 +112,13 @@ margin-bottom:100px ;
 
   }
   .insta{
-    font-size: 40px;
+    font-size: 20px;
   }
   footer{
     background: rgb(114, 142, 218);
   }
   h4{
     text-align: center;
-    font-size: 55px;
+    font-size: 27px;
     padding-bottom: 20px;
   }
